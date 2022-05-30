@@ -1,0 +1,27 @@
+
+  #nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display:flex;
+    justify-content: space-between;
+}
+@media (mix-width: 300px){
+    p{
+        color:orange;
+    }
+}
+.nav-link{
+   margin-left:100px;
+   margin-top:30px;
+   margin-bottom:80px;
+   text-decoration: none;
+   font-size:larger;
+}
+#banner-img{
+    margin-top:30px;
+}
+#video{
+    margin-top:30px;
+    border-top:solid;
+}
